@@ -46,7 +46,7 @@ Spain
 
 `2011-2016`
 
-__2011–2016 BSc in Computer Engineering, UCLM Albacete,Spain.__
+__2011–2016 BSc in Computer Engineering, UCLM Albacete, Spain.__
 
 
 ## Languages
@@ -61,7 +61,7 @@ __English__, Advanced
 
 __Scripting__: UNIX Shell Scripting
 __Database__: Oracle, PL/SQL, MySQL
-__Frontend__: HTML, CSS
+__Frontend__: HTML5, CSS3
 __Backend__: PHP
 __Systems__: GENEVA Billing System
 __CRM__: Amdocs Smart Client 7.5
