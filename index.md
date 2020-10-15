@@ -4,8 +4,11 @@ title: Dalia Bogdan's CV
 ---
 # Dalia Bogdan
 Software Developer
-Albacete 
+
+Albacete
+
 Spain
+
 +34 692 506 530
 
 <div id="webaddress">
