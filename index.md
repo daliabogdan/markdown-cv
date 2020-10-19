@@ -20,7 +20,7 @@ Albacete, Spain
 
 - Developing and improving the functionality of existing processes using PL/SQL
 - Automation of processes using Unix Shell Scripting
-- Analyzing and solving incidences 
+- Analyzing and solving incidents 
 - Managing a team of 3 people
 - Providing technical and functional support as needed
 
