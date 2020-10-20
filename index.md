@@ -10,7 +10,7 @@ Albacete, Spain
 +34 692 506 530
 
 <div id="webaddress">
-<a href="daliabogdann@gmail.com">daliabogdann@gmail.com</a> | <a href="linkedin.com/in/dalia-bogdan">linkedin.com/in/dalia-bogdan</a>
+<a href="daliabogdann@gmail.com">daliabogdann@gmail.com</a> | <a href="linkedin.com/in/dalia-bogdan">linkedin.com/in/dalia-bogdan</a> | <a href="daliabogdan.github.io/cv/">daliabogdan.github.io/cv/</a>
 </div>
 
 ## Experience
@@ -18,25 +18,29 @@ Albacete, Spain
 `2019-2020`
 ### Solutions Analyst, everis, Madrid
 
-- Developing and improving the functionality of existing processes using PL/SQL
-- Automation of processes using Unix Shell Scripting
-- Analyzing and solving incidents 
-- Managing a team of 3 people
-- Providing technical and functional support as needed
+- Developed and improved the functionality of existing PL/SQL processes
+- Automated processes using Unix Shell Scripting
+- Analyzed and solved incidents
+- Managed a team of 3 people
 
 `2017-2019`
 ### Solutions Assistant, everis, Madrid
 
-- Developing billing data migration processes using Unix Shell Scripting and PL/SQL 
-- Monitoring using Control-M workload automation tool 
-- Analyzing and reporting data discrepancies using Oracle querying, Excel macros and dynamic tables
+- Developed billing data migration processes using Unix Shell Scripting and PL/SQL 
+- Analyzed and reported data discrepancies using Oracle querying, Excel macros and dynamic tables
+- Provided technical and functional support as needed
+- Generated software documentation 
 
-`2015-2017`
+`2016-2017`
 ### Web Administrator, Grupo Marpasi, Albacete
 
- - Using Magento to develop and manage the company’s web pages
- - Developing new functionalities using PHP
+ - Managed the company's internally developed e-commerce web page 
+ - Developed new functionalities using PHP, HTML and CSS
 
+`2015-2016`
+### Web Administrator, Ageo Celeris, Albacete
+
+ - Used Magento e-commerce platform to develop and administrate the company’s web page 
 
 
 ## Education
@@ -50,19 +54,15 @@ BSc in Computer Engineering, UCLM Albacete, Spain
 - __Romanian__: Native
 - __English__: Advanced
 
-
-
 ## Knowledge Area
 
 - __Scripting__: UNIX Shell Scripting
-- __Database__: Oracle, PL/SQL, MySQL
+- __Databases__: Oracle, PL/SQL, MySQL
 - __Frontend__: HTML5, CSS3
-- __Backend__: PHP
+- __Backend__: PHP, Javascript
+- __Repositories__: PVCS, Git, SVN
 - __Systems__: GENEVA Billing System
 - __CRM__: Amdocs Smart Client 7.5
-- __Repositories__: PVCS, Git, SVN
-
-
 
 <!-- ### Footer
 
