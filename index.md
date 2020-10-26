@@ -18,10 +18,12 @@ Albacete, Spain
 `2019-2020`
 ### Solutions Analyst, everis, Madrid
 
+- After getting promoted, I accomplished my main goal of becoming a technical and functional person of reference within my team
 - Developed and improved the functionality of existing PL/SQL processes
 - Automated processes using Unix Shell Scripting
 - Analyzed and solved incidents
 - Managed a team of 3 people
+
 
 `2017-2019`
 ### Solutions Assistant, everis, Madrid
@@ -29,7 +31,7 @@ Albacete, Spain
 - Developed billing data migration processes using Unix Shell Scripting and PL/SQL 
 - Analyzed and reported data discrepancies using Oracle querying, Excel macros and dynamic tables
 - Provided technical and functional support as needed
-- Generated software documentation 
+- Generated software documentation
 
 `2016-2017`
 ### Web Administrator, Grupo Marpasi, Albacete
