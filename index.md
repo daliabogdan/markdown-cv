@@ -18,7 +18,7 @@ Albacete, Spain
 `2019-2020`
 ### Solutions Analyst, everis, Madrid
 
-- After getting promoted, I accomplished my main goal of becoming a technical and functional person of reference within my team
+- Became a technical and functional person of reference within my team
 - Developed and improved the functionality of existing PL/SQL processes
 - Automated processes using Unix Shell Scripting
 - Analyzed and solved incidents
