@@ -3,7 +3,7 @@ layout: cv
 title: Dalia Bogdan's CV
 ---
 # Dalia Bogdan
-Software Developer
+Software Engineer
 
 Albacete, Spain
 
@@ -13,37 +13,29 @@ Albacete, Spain
 <a href="daliabogdann@gmail.com">daliabogdann@gmail.com</a> | <a href="linkedin.com/in/dalia-bogdan">linkedin.com/in/dalia-bogdan</a> | <a href="daliabogdan.github.io/cv/">daliabogdan.github.io/cv/</a>
 </div>
 
-## Experience
+## Work Experience
 
-`2019-2020`
+`2020-2021`
+### Drupal Developer, Ymbra, Remote
+
+- Focused on sitebuilding and backend development
+- Became the technical lead of the OSCE Hate Crime Reporting website project, reconstructing the site from Drupal 7 to Drupal 8 and adapting it to multilingual support
+- Adapted to Agile software development methodologies (such as SCRUM), Git and CI/CD processes
+- Used technologies such as PHP, Javascript, HTML and CSS
+
+`2017-2020`
 ### Solutions Analyst, everis, Madrid
 
-- Became a technical and functional person of reference within my team
-- Developed and improved the functionality of existing PL/SQL processes
-- Automated processes using Unix Shell Scripting
-- Analyzed and solved incidents
+- Developed billing data migration processes using Unix Shell Scripting and PL/SQL 
+- Provided technical and functional support as needed to peers and other providers
+- Analyzed and reported data discrepancies using Oracle querying
+- Generated software documentation
 - Managed a team of 3 people
 
-
-`2017-2019`
-### Solutions Assistant, everis, Madrid
-
-- Developed billing data migration processes using Unix Shell Scripting and PL/SQL 
-- Analyzed and reported data discrepancies using Oracle querying, Excel macros and dynamic tables
-- Provided technical and functional support as needed
-- Generated software documentation
-
-`2016-2017`
+`2015-2017`
 ### Web Administrator, Grupo Marpasi, Albacete
 
- - Managed the company's internally developed e-commerce web page 
- - Developed new functionalities using PHP, HTML and CSS
-
-`2015-2016`
-### Web Administrator, Ageo Celeris, Albacete
-
  - Used Magento e-commerce platform to develop and administrate the company’s web page 
-
 
 ## Education
 `2011-2016`
@@ -56,15 +48,15 @@ BSc in Computer Engineering, UCLM Albacete, Spain
 - __Romanian__: Native
 - __English__: Advanced
 
-## Knowledge Area
+## Technical Knowledge Area
 
+- __CMS__: Drupal
 - __Scripting__: UNIX Shell Scripting
 - __Databases__: Oracle, PL/SQL, MySQL
-- __Frontend__: HTML5, CSS3
-- __Backend__: PHP, Javascript
-- __Repositories__: PVCS, Git, SVN
-- __Systems__: GENEVA Billing System
-- __CRM__: Amdocs Smart Client 7.5
+- __Frontend__: HTML5, CSS3, Javascript
+- __Backend__: PHP
+- __Repositories__: Git, GitLab
+
 
 <!-- ### Footer
 
