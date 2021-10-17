@@ -20,7 +20,7 @@ Albacete, Spain
 
 - Focused on sitebuilding and backend development
 - Became the technical lead of the OSCE Hate Crime Reporting website project, reconstructing the site from Drupal 7 to Drupal 8 and adapting it to multilingual support
-- Adapted to Agile software development methodologies (such as SCRUM), Git and CI/CD processes
+- Adapted to Agile software development methodologies (SCRUM), Git and CI/CD processes
 - Used technologies such as PHP, Javascript, HTML and CSS
 
 `2017-2020`
@@ -35,7 +35,7 @@ Albacete, Spain
 `2015-2017`
 ### Web Administrator, Grupo Marpasi, Albacete
 
- - Used Magento e-commerce platform to develop and administrate the company’s web page 
+ - Managed the product database and website 
 
 ## Education
 `2011-2016`
@@ -48,14 +48,14 @@ BSc in Computer Engineering, UCLM Albacete, Spain
 - __Romanian__: Native
 - __English__: Advanced
 
-## Technical Knowledge Area
+## Technical Knowledge
 
 - __CMS__: Drupal
 - __Scripting__: UNIX Shell Scripting
 - __Databases__: Oracle, PL/SQL, MySQL
 - __Frontend__: HTML5, CSS3, Javascript
 - __Backend__: PHP
-- __Repositories__: Git, GitLab
+- __Repositories__: Git
 
 
 <!-- ### Footer
