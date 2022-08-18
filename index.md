@@ -5,9 +5,9 @@ title: Dalia Bogdan's CV
 # Dalia Bogdan
 Software Engineer
 
-Albacete, Spain
+Munich, Germany
 
-+34 692 506 530
+01523 6780572
 
 <div id="webaddress">
 <a href="daliabogdann@gmail.com">daliabogdann@gmail.com</a> | <a href="linkedin.com/in/dalia-bogdan">linkedin.com/in/dalia-bogdan</a> | <a href="daliabogdan.github.io/cv/">daliabogdan.github.io/cv/</a>
